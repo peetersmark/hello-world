@@ -1,5 +1,5 @@
-# hello-world
-this is a learning exersize for me, please ignore this
+# hello-world3
+this is a learning exersize for me, don't ignore this
 
 # more info
-boop!
+boop! beep!
